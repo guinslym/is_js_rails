@@ -24,8 +24,9 @@ add in `app/assets/javascripts/application.js` it doesn't require dependencies s
 
 	//= require is_js_rails
 
+	
 ```javascript
-is.url('https://rubygems.org/'');
+is.url('https://rubygems.org/');
 => true
 
 is.url('rugygems');
