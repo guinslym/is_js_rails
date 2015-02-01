@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "is_js_rails"
   spec.version       = IsJsRails::VERSION
   spec.authors       = ["Guinsly Mondesir"]
-  spec.email         = [gmond@gmx.com.br]
+  spec.email         = ["gmond@gmx.com.br"]
   spec.summary       = %q{Adding is.js into your rails app. https://arasatasaygin.github.io/is.js A Micro check library}
   spec.description       = %q{Adding is.js into your rails app. https://arasatasaygin.github.io/is.js A Micro check library}
   spec.homepage      = "https://github.com/guinslym/is_js_rails "
