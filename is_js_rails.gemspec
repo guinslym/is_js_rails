@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = IsJsRails::VERSION
   spec.authors       = ["Guinsly Mondesir"]
   spec.email         = ["gmond@gmx.com.br"]
-  spec.summary       = %q{Adding is.js into your rails app. https://arasatasaygin.github.io/is.js A Micro check library}
-  spec.description       = %q{Adding is.js into your rails app. https://arasatasaygin.github.io/is.js A Micro check library}
-  spec.homepage      = "https://github.com/guinslym/is_js_rails "
+  spec.summary       = %q{Adding is.js in your rails app. https://arasatasaygin.github.io/is.js A Micro check library}
+  spec.description   = %q{Implementing is.js in your rails app. https://arasatasaygin.github.io/is.js A Micro check library}
+  spec.homepage      = "https://github.com/guinslym/is_js_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
