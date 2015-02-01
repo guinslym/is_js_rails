@@ -20,11 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-add in `app/assets/javascripts/application.js` it doesn't require dependencies so you can place it wherever you want.
+add in `app/assets/javascripts/application.js` 
 
 	//= require is_js_rails
 
-	
+
 ```javascript
 is.url('https://rubygems.org/');
 => true
